@@ -1,3 +1,6 @@
+# Python script to scan and list active devices on your local Wi-Fi network.
+# Requires admin/root privileges to access the ARP table.
+
 import os
 import platform
 import subprocess
